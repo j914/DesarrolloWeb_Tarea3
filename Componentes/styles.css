@@ -1,0 +1,36 @@
+
+p {
+  text-align: center;
+  color: rgb(34, 33, 33);
+}
+
+h2{
+  text-align: center;
+  color: rgba(155, 46, 46, 0.842);
+}
+
+h3 {
+  background-color: rgb(26, 51, 59);
+}
+
+
+body {
+  background-color: rgb(180, 32, 89);
+  font-family: 'Baloo Chettan 2', cursive;
+  font-family: 'Baloo Chettan 2', cursive;
+font-family: 'Mulish', sans-serif;
+}
+
+h3 {
+  background-color: rgb(13, 72, 92);
+}
+body {
+  background-image: url("/Imagenes/Background.png");
+  background-color: #d1173f;
+ }
+ 
+ .audio-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
